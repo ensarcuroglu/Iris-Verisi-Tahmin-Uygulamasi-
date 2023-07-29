@@ -1,4 +1,4 @@
-# Iris-Verisi-Tahmin-Uygulaması--
+# Iris-Verisi-Tahmin-Uygulamasi-
 Bu proje, Python programlama dili ve Spyders IDE'si ile scikit-learn kütüphanesini kullanarak "Iris" veri setini yükleyerek, k-En Yakın Komşu (k-Nearest Neighbors - k-NN) algoritmasıyla iris çiçeklerinin sınıflandırılmasını gerçekleştiren bir makine öğrenimi uygulamasını içermektedir.
 
 Veri Yüklemesi ve Hazırlığı:
